@@ -562,6 +562,10 @@ footer .container-footer {
   border-bottom: rgba(0, 0, 0, 0.384) 1px solid;
 }
 
+.list-container li {
+  cursor: pointer;
+}
+
 .list-f span {
   display: block;
   padding-bottom: 0.8rem;
